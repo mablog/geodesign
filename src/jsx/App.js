@@ -1,7 +1,7 @@
 function App() {
   return (
     <>
-      <div>Salam l'équip e</div>
+      <div>Salam l'équip e, rani fort</div>
     </>
   );
 }
